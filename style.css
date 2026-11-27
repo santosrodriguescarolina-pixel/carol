@@ -1,3 +1,4 @@
+
 :root {
     --cor-primaria: #183C63;
     --cor-primaria-: #3782d2;
@@ -10,4 +11,15 @@
 }
 
 *{
-    transicion
+    transition:background-color 0.8s ease;
+}
+
+tema-escuro {
+    --cor-primaria:#A6CEFE;
+    --cor-secundaria:#98caff;
+    --cor-fundo:#0f172a;
+    --cor-texto:#ffffff;
+    --cor-contraste:#1e293b;
+    --
+
+}
